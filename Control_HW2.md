@@ -1,3 +1,1 @@
 2001.11.14  HWANG JUN WOO
-
-2000.11.17 BaekSunkyu
